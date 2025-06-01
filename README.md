@@ -91,3 +91,7 @@ Foi possível desenvolver gráficos para facilitar a visualização da distribui
 
 ### Link para o Repositório: 
 - [Dados IBGE](https://github.com/WalterMatheus/Dados_IBGE)
+
+### Link para o Dashboard no Tableau Public:
+  
+- [IBGE: População por estado e projeção de crescimento](https://public.tableau.com/app/profile/walter.matheus.alves.ribeiro/viz/IBGEPopulaoporestadoeprojeodecrescimento/Painel1)
