@@ -23,7 +23,7 @@ Download de arquivos xlsx e utilização de scripts Python para conversão de al
 ## 3. Análise Exploratória de Dados
 
 ### Primeiras Observações
-Não foi encontrado dados duplicados ou campos nulos, porém, foi possível observar que os anos estavam dividos por colunas, sendo necessário converter as colunas dos anos em uma dimensão (coluna) para melhor funcionamento no Tableau.
+Não foi encontrado dados duplicados ou campos nulos, porém, foi possível observar que os anos estavam divididos por colunas, sendo necessário converter as colunas dos anos em uma dimensão (coluna) para melhor funcionamento no Tableau.
 
 ### Desafios Identificados
 - Os locais (estados, regiões e país) não estavam acompanhados de suas respectivas coordenadas, o que pode ser um impedimento de visualização de dados em um mapa para determinadas ferramentas;
@@ -37,7 +37,7 @@ Foi alterada a formatação dos dados que representavam os anos, onde esses fora
 ## 5. Modelagem e Organização dos Dados
 
 ### Estruturação para o Tableau
-Após a conversão das diversas colunas representando os anos foi feito um ajuste visual do comprimento e expessura das linhas e colunas no Microsoft Excel para melhor navegação na tabela.
+Após a conversão das diversas colunas representando os anos foi feito um ajuste visual do comprimento e espessura das linhas e colunas no Microsoft Excel para melhor navegação na tabela.
 
 ### Dicionário de Dados
 
@@ -66,7 +66,7 @@ Implementação de filtros dinâmicos por ano, sexo e idade, permitindo que o us
 ## 7. Resultados e Insights Obtidos
    
 ### Principais Descobertas
-É possível observar que São Paulo é o estado de maior concentração da população e que conforme avançamos em termos de idade maior fica a diferença entre população feminina e população masculina, podendo ser um indicativo de que mulheres possuem maior expectaviva de vida no Brasil.
+É possível observar que São Paulo é o estado de maior concentração da população e que conforme avançamos em termos de idade maior fica a diferença entre população feminina e população masculina, podendo ser um indicativo de que mulheres possuem maior expectativa de vida no Brasil.
 
 ### Valor Gerado
 O projeto facilita visualização da distribuição da população pelo território brasileiro e sua progressão ao longo dos anos considerando idade e sexo, além disso, o projeto pode facilitar a automatização na geração de novos insights a partir do estabelecimento de uma nova forma da configuração dos dados.
