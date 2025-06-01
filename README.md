@@ -59,12 +59,35 @@ Desenvolvimento de dashboards interativos no Tableau para facilitar a visualiza�
 ### Tipos de Gráficos
 - Gráficos de linhas para visualização da progressão da população brasileira entre os sexos masculino e feminino.
 - Mapa para visualização da distribuição da população ao longo do território brasileiro.
-- 
+  
 ### Interatividade
 Implementação de filtros dinâmicos por ano, sexo e idade, permitindo que o usuário personalize sua análise.
 
 ## 7. Resultados e Insights Obtidos
    
 ### Principais Descobertas
-É possível observar que São Paulo é o estado de maior concentração da população e que conforme avançamos em termos de idade maior fica a diferença entre população feminina e população masculina, podendo ser um indicativo de que mulheres possuem maior expectaviva de vida.
+É possível observar que São Paulo é o estado de maior concentração da população e que conforme avançamos em termos de idade maior fica a diferença entre população feminina e população masculina, podendo ser um indicativo de que mulheres possuem maior expectaviva de vida no Brasil.
 
+### Valor Gerado
+O projeto facilita visualização da distribuição da população pelo território brasileiro e sua progressão ao longo dos anos considerando idade e sexo, além disso, o projeto pode facilitar a automatização na geração de novos insights a partir do estabelecimento de uma nova forma da configuração dos dados.
+
+### Resposta ao Problema/Oportunidade
+Foi possível desenvolver gráficos para facilitar a visualização da distribuição da população e sua estimativa de progressão ao longo dos anos.
+
+## 8. Próximos Passos 
+
+### Análise por Faixas Etárias Estratégicas
+- Envelhecimento Populacional: Onde está concentrada e para onde está crescendo a população idosa? Quais as implicações para saúde, previdência e serviços?
+- População Jovem/Adulta: Quais regiões terão mais jovens em idade escolar ou mais adultos em idade economicamente ativa? (Fundamental para educação, mercado de trabalho, consumo).
+- Razão de Dependência: Calcular e visualizar a razão de dependência (população de 0-14 anos + 65+ anos / população de 15-64 anos). Isso indica o "peso" da população não economicamente ativa sobre a ativa. Onde essa razão está crescendo/diminuindo?
+- Comparação Histórica: Comparar as projeções atuais com o que realmente aconteceu em censos anteriores. Houve desvios significativos? Por quê?
+
+### Correlações
+- Economia: Como a projeção populacional se correlaciona com o PIB per capita regional ou com a taxa de desemprego?
+- Infraestrutura: Onde a infraestrutura atual (hospitais, escolas, transporte) será mais ou menos sobrecarregada pelas mudanças populacionais?
+- Setor Agro: Como as mudanças demográficas nas áreas rurais afetam a disponibilidade de mão de obra e o perfil de consumo/produção?
+
+## 9. Acesso ao Projeto
+
+### Link para o Repositório: 
+- Dados IBGE
